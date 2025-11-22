@@ -21,7 +21,7 @@ Program:
 
 
 Run Program: <br>
-Lihat Data Kosong
+Menampilkan Data Kosong
 
 ![run1](https://github.com/user-attachments/assets/feffbeec-c2a5-4896-af01-29f4594c47ac)
 
